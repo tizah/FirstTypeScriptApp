@@ -1,0 +1,12 @@
+{
+  "name": "first-type-script-app",
+  "version": "0.0.0",
+  "description": "FirstTypeScriptApp",
+  "main": "app.js",
+  "author": {
+    "name": "David"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.87"
+  }
+}
